@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladimirEdouard
-- 👀 I’m interested in ... Electrical Engineering, AI Infrastructure, HPC, and Automotive Engineering
-- 🌱 I’m currently learning ... AI Infrastructure and Automotive Engineering
+- 👀 I’m interested in ... Cars, Cameras, and Computers
+- 🌱 I’m currently learning ... Electrical Engineering, AI Infrastructure, and Automotive Engineering
 - 💞️ I’m looking to collaborate on ... any of the above.
 - 📫 How to reach me ... vje013@gmail.com
 - 😄 Pronouns: ... He/Him
